@@ -1,0 +1,10 @@
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\bin\Debug\Practice_5.exe.config
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\bin\Debug\Practice_5.exe
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\bin\Debug\Practice_5.pdb
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\obj\Debug\Practice_5.csprojAssemblyReference.cache
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\obj\Debug\Practice_5.Form1.resources
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\obj\Debug\Practice_5.Properties.Resources.resources
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\obj\Debug\Practice_5.csproj.GenerateResource.cache
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\obj\Debug\Practice_5.csproj.CoreCompileInputs.cache
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\obj\Debug\Practice_5.exe
+G:\C_SHARP\Windows_FormApp\Practice_5\Practice_5\obj\Debug\Practice_5.pdb
